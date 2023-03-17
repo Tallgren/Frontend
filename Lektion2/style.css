@@ -1,0 +1,12 @@
+.text-center{
+    text-align: center;
+}
+
+body{
+    background-color: rgb(174, 16, 183);
+    color:rgb(133, 201, 156);
+}
+
+p{
+    color: blue;
+}
